@@ -1,6 +1,6 @@
 - Hello world, I’m @Carvaja57
-- 👀 I’m interested in The linux community, retro gaming community and using Arduino to make fun solutions for everyday problems!
-- 🌱 I’m currently learning everything I can about GNU/linux and it's many diffrent desktop enviorments.
+- 👀 I’m interested in The linux community.
+- 🌱 I’m currently learning about GNU/linux and it's many diffrent desktop enviorments.
 - 💞️ I’m looking to collaborate on ... well something one day, when I feel confident enough.
 - 📫 How to reach me ...
 
