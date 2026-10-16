@@ -1,7 +1,6 @@
 - Hello world, I’m @Carvaja57
-- 👀 I’m interested in The linux community.
-- 🌱 I’m currently learning about GNU/linux and it's many diffrent desktop enviorments.
-- 💞️ I’m looking to collaborate on ... well something one day, when I feel confident enough.
+- 🌱 Currently learning about GNU/linux.
+- 💞️ Looking to collaborate on anything opensource
 - 📫 How to reach me ...
 
 <!---
